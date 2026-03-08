@@ -18,8 +18,6 @@ Original repository (source of this sequel):
 
 The objective of this continuation is to move from descriptive insights to actionable prediction by implementing a complete machine learning workflow: data preparation for models, train-test split, model training, model comparison, variable relevance interpretation, and strategic recommendations supported by model performance.
 
-This sequel was developed on top of the same challenge notebook (`TelecomX_LATAM.ipynb`) and complements the original `README.md`.
-
 <a name="project-status"></a>
 ## 🚀 Project Status
 Current Status: Completed (Sequel Phase)
@@ -116,4 +114,4 @@ Contact: benjaminarauzc@gmail.com
 ## 🎯 Conclusion
 This sequel transforms the original TelecomX challenge from exploratory analysis into a practical predictive framework. It combines model performance, interpretability, and business strategy in a single workflow, enabling data-driven retention decisions.
 
-Together, `README.md` (original challenge) and `README_SEQUEL.md` (continuation) provide a complete end-to-end view of the project: from understanding churn behavior to operationalizing churn prediction and retention actions.
+This provide a complete end-to-end view of the project: from understanding churn behavior to operationalizing churn prediction and retention actions.
